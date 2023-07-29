@@ -1,0 +1,156 @@
+.cont {
+  width: 80%;
+}
+
+.contProd1 {
+  margin-left: 47%;
+  border-bottom: 2px solid #7FD3DF;
+  width: 150px;
+  margin-bottom: 1%;
+  margin-top: 120px;
+  color: #000;
+  text-align: center;
+  font-family: Tajawal;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.imgHeader1 {
+  width: 90%;
+  margin-right: 20px;
+}
+
+.prod2 {
+  gap: 0.5rem;
+}
+
+.sec3 {
+  display: flex;
+  justify-content: space-around;
+  display: inline-flex;
+}
+
+.sec3 .prod4 {
+  display: flex;
+  padding: 5px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  background: #FFF;
+  position: relative;
+  margin-left: 20px;
+}
+.sec3 .prod4 .iconHeart {
+  position: absolute;
+  top: 25px;
+  right: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sec3 .prod4 .btn {
+  position: absolute;
+  bottom: 22.8%;
+  background-color: rgba(127, 210, 223, 0.8980392157);
+  padding: 7.5% 5%;
+  width: 86%;
+  margin-right: 24px;
+  justify-content: center;
+  font-size: larger;
+  transform: translateY(-12px);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sec3 .contComp {
+  display: flex;
+}
+
+.sec3 .prod4 .handlePound .numPound {
+  color: #7FD3DF;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 18.41px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.sec3 .prod4 .desc {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.sec3 .prod4 .desc .handlePound {
+  display: flex;
+  gap: 5px;
+}
+
+.sec3 .prod4 .desc .nameOfProd {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: center;
+  font-family: Tajawal;
+  font-size: 18.41px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  width: -moz-max-content;
+  width: max-content;
+}
+
+.sec3 .prod4 .desc .numPound2 {
+  color: #7FD3DF;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 13.807px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: line-through;
+}
+
+.sec3 .prod4 .size {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: end;
+  margin-right: 60px;
+  width: 100%;
+}
+
+.sec3 .prod4 .size span {
+  width: 22px;
+  height: 22px;
+  border: 1px solid #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sec3 .prod4 .size span:active {
+  background-color: blue;
+}
+
+.sec3 .prod4 .prodInfo .star {
+  display: flex;
+  gap: 0.2rem;
+  margin-top: -6%;
+  margin-right: 30px;
+}
+.sec3 .prod4 .prodInfo .star .starG {
+  color: #FFB800;
+  font-size: larger;
+  gap: 0.5rem;
+}
+.sec3 .prod4 .prodInfo .star .starB {
+  color: rgba(50, 50, 50, 0.5019607843);
+  font-size: larger;
+}
+
+.blue {
+  background-color: #7FD3DF;
+  outline: 1px solid rgb(26, 131, 131);
+}/*# sourceMappingURL=AtherPROD.css.map */

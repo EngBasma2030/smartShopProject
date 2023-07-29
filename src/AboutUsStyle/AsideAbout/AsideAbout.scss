@@ -1,0 +1,447 @@
+.CouponAside {
+    display: flex;
+    margin-top: 15%;
+    margin-bottom: 20px;
+}
+
+.couponAside {
+    display: flex;
+    width: 568px;
+    height: 700px;
+    padding: 32px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 23px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 1px 11px 54px 0px rgba(0, 0, 0, 0.25);
+    // margin-top: 15%;
+    margin-left: 4%;
+}
+
+.Coupon {
+    color: #000;
+    text-align: center;
+    font-family: Tajawal;
+    font-size: 20.819px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.CouponP {
+    color: rgba(0, 0, 0, 0.70);
+    text-align: right;
+    font-family: Tajawal;
+    font-size: 13.879px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.buttonCoupon {
+    display: flex;
+    padding: 10px 27px;
+    justify-content: center;
+    // width: 400px;
+    // align-items: center;
+    gap: 16px;
+    border-radius: 5px;
+    transform: translateX(30px);
+
+    .sure {
+        width: 100px;
+        height: 40px;
+        color: #FFF;
+        text-align: right;
+        font-family: Tajawal;
+        font-size: 13.879px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: capitalize;
+        border-radius: 5px;
+        background: var(--primary, #7FD3DF);
+        border: #7FD3DF;
+        text-align: center;
+
+    }
+
+    .code {
+        width: 100px;
+        height: 40px;
+        color: rgba(0, 0, 0, 0.50);
+        text-align: right;
+        font-family: Tajawal;
+        font-size: 13.879px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+        text-transform: capitalize;
+        border: none;
+        border-radius: 5px;
+        border: 1px solid rgba(0, 0, 0, 0.20);
+    }
+}
+
+.NB .NBH2 {
+    color: #000;
+    text-align: center;
+    font-family: Tajawal;
+    font-size: 20.819px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    transform: translateX(22px);
+}
+
+.NB .NBP {
+    color: rgba(0, 0, 0, 0.70);
+    text-align: right;
+    font-family: Tajawal;
+    font-size: 13.879px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.inputAside {
+    display: flex;
+    width: 460px;
+    height: 123px;
+    padding: 24px 42px 10px 485px;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 18px;
+    transform: translateX(10px);
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+
+    .inputAside2 {
+        color: rgba(0, 0, 0, 0.50);
+        text-align: right;
+        font-family: Tajawal;
+        font-size: 13.88px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        border: none;
+    }
+}
+
+.sub {
+    display: flex;
+
+    .subNum {
+        color: #000;
+        text-align: right;
+        font-family: Tajawal;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: capitalize;
+        direction: rtl;
+        transform: translateX(-380px);
+    }
+
+    .subb {
+        color: #000;
+        text-align: right;
+        font-family: Tajawal;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: capitalize;
+    }
+}
+
+.total {
+    display: flex;
+    margin-top: -20px;
+
+    .totalNum {
+        color: #000;
+        text-align: right;
+        font-family: Tajawal;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: capitalize;
+        direction: rtl;
+        transform: translateX(-372px);
+    }
+
+    .totall {
+        color: #000;
+        text-align: right;
+        font-family: Tajawal;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: capitalize;
+    }
+}
+
+.couponP {
+    color: #000;
+    text-align: right;
+    font-family: Tajawal;
+    font-size: 13.879px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.btnCoupon {
+    display: flex;
+    padding: 10px 27px;
+    justify-content: center;
+    // width: 400px;
+    // align-items: center;
+    gap: 16px;
+    border-radius: 5px;
+    transform: translateX(30px);
+
+    .btnCoupon2 {
+        width: 100px;
+        height: 40px;
+        color: #FFF;
+        text-align: right;
+        font-family: Tajawal;
+        font-size: 13.879px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: capitalize;
+        border-radius: 5px;
+        background: var(--primary, #7FD3DF);
+        border: #7FD3DF;
+        text-align: center;
+        transform: translateX(-260px);
+    }
+
+    .btnCoupon1 {
+        width: 140px;
+        height: 40px;
+        color: #FFF;
+        text-align: right;
+        font-family: Tajawal;
+        font-size: 13.879px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: capitalize;
+        border-radius: 5px;
+        background: var(--primary, #7FD3DF);
+        border: #7FD3DF;
+        text-align: center;
+    }
+}
+
+.basketAside {
+    width: 650px;
+    // position: relative;
+    margin-left: 20px;
+    // align-items: end;
+}
+
+.Basket {
+    color: #000;
+    // text-align: ;
+    text-align: end;
+    font-family: Tajawal;
+    font-size: 34.698px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+
+    // margin-right: -50px;
+    // padding: 0% 9%;
+}
+
+.addresses {
+    display: flex;
+    color: #000;
+    text-align: right;
+    font-family: Tajawal;
+    font-size: 20.819px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.20);
+
+    // position: absolute;
+    // top: 40px;
+    .Total {
+        transform: translateX(50px);
+    }
+
+    .quantity {
+        transform: translateX(150px);
+    }
+
+    .PriceAside {
+        transform: translateX(250px);
+    }
+
+    .PRODUCT {
+        transform: translateX(470px);
+    }
+}
+
+.productAside {
+    display: flex;
+    margin-top: 30px;
+    // height: 120px;
+    // width: 650px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.20);
+    // margin-bottom: 20px;
+
+    .closeOfAside {
+        // transform: translateX(250px);
+        // transform: translateX(200px);
+        width: 10.78px;
+        height: 11.333px;
+        color: var(--primary, #7FD3DF);
+        margin-top: 40px;
+        margin-left: 30px;
+        transform: translateX(120px);
+        margin-bottom: 10px;
+    }
+
+    .imgOfAside {
+        display: flex;
+
+        .AsideOfImg {
+            transform: translateX(140px);
+            margin-bottom: 30px;
+        }
+
+        .AsideP1 {
+            color: #000;
+            text-align: right;
+            font-family: Tajawal;
+            font-size: 13.879px;
+            font-style: normal;
+            font-weight: 300;
+            line-height: normal;
+            text-transform: capitalize;
+            transform: translateX(125px);
+            margin-top: 75px;
+        }
+
+        .AsideP2 {
+            color: #000;
+            text-align: right;
+            font-family: Tajawal;
+            font-size: 13.879px;
+            font-style: normal;
+            font-weight: 300;
+            line-height: normal;
+            text-transform: capitalize;
+            transform: translateX(185px);
+            margin-top: 45px;
+        }
+
+        .AsideH6 {
+            color: #000;
+            text-align: right;
+            font-family: Tajawal;
+            font-size: 13.879px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            text-transform: capitalize;
+            transform: translateX(245px);
+            margin-top: 14px;
+        }
+
+    }
+
+    .PriceAside1 {
+        transform: translateX(220px);
+        direction: rtl;
+        margin-top: 25px;
+    }
+
+    .countersAside {
+        transform: translateX(150px);
+        margin-top: 25px;
+        // width: 34.27px;
+        height: 27.02px;
+        // border-radius: 21.748px 0px 0px 21.748px;
+        // background: rgba(217, 217, 217, 0.50);
+        .counter{
+            display: flex;
+            width: 100px;
+            justify-content: space-between; 
+            .decrease{
+                width: 39.506px;
+                height: 31.149px;
+                border-radius: 25.071px 0px 0px 25.071px;
+                border: 1px solid rgba(0, 0, 0, 0.20);
+                background: rgba(217, 217, 217, 0.50);
+            }
+            .elCount{
+                height: 31.149px;  
+                border-top: 1px solid rgba(0, 0, 0, 0.20);
+                border-bottom: 1px solid rgba(0, 0, 0, 0.20);
+                background: #FFF;
+            }
+            .plusY{
+                width: 39.506px;
+                height: 31.149px;
+                border-radius: 0px 25.071px 25.071px 0px;
+                border: 1px solid rgba(0, 0, 0, 0.20);
+                background: rgba(217, 217, 217, 0.50);
+            }
+            }
+        }
+    }
+
+    .PriceAside2 {
+        transform: translateX(50px);
+        direction: rtl;
+        margin-top: 25px;
+    }
+
+
+.textOfAside {
+    display: flex;
+    margin-top: 20px;
+
+    .textP1 {
+        color: var(--primary, #7FD3DF);
+        text-align: right;
+        font-family: Tajawal;
+        font-size: 20.819px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-transform: capitalize;
+    }
+
+    .textP2 {
+        color: var(--primary, #7FD3DF);
+        // text-align: left;
+        transform: translateX(500px);
+        font-family: Tajawal;
+        font-size: 20.819px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-transform: capitalize;
+    }
+}

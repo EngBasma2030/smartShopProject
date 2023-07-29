@@ -1,0 +1,29 @@
+{
+  "admins": [
+    {
+      "name": "Basma",
+      "password": "12345678",
+      "email": "basmabahaa59@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "`12",
+      "id": 3
+    },
+    {
+      "name": "",
+      "password": "`12",
+      "email": "cvnm",
+      "id": 4
+    }
+  ],
+  "posts": []
+}

@@ -1,0 +1,54 @@
+.Header {
+  margin-top: 5%;
+  margin-bottom: 15%;
+}
+
+.imgHeader {
+  width: 99.99%;
+}
+
+.textH {
+  margin-top: -220px;
+  margin-left: 350px;
+  color: #fff;
+}
+
+.LinkHeader {
+  justify-content: space-between;
+  margin-left: 70px;
+  color: #FFF;
+  text-align: center;
+  font-family: Tajawal;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+
+.LinkH {
+  margin-top: 50px;
+  margin-left: 350px;
+}
+
+.slach {
+  color: #EB0E0E;
+  text-align: center;
+  font-family: Tajawal;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+  margin-right: 120px;
+  margin-top: -23px;
+}
+.slach .slach1 {
+  margin-left: 10px;
+  margin-top: -6px;
+}
+.slach .slach2 {
+  margin-left: 280px;
+  margin-top: -50px;
+}/*# sourceMappingURL=NextNAv.css.map */

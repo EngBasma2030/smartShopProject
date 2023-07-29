@@ -1,0 +1,49 @@
+.NAv {
+//     // background-color: aqua;
+    display: flex;
+    position: relative;
+    margin-top: 40px;
+    // z-index: -10;
+}
+
+.icons {
+    display: flex;
+    position: absolute;
+    left: 8%;
+
+}
+
+.icon {
+    margin-left: 12px;
+}
+
+.button {
+    position: absolute;
+    left: 38%;
+}
+
+.btnNav {
+    background-color: #fff; 
+    border: none;
+    color: rgba(0, 0, 0, 0.849);
+    text-align: center;
+    font-size: 19px;
+    font-family: El Messiri;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    // padding: 0.6%;
+    margin-left: 15px;
+    
+}
+.btnNav:hover
+{
+    color:aqua;
+    cursor: pointer;
+    
+}
+.img {
+    position: absolute;
+    left: 90%;
+}

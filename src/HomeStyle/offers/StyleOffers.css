@@ -1,0 +1,86 @@
+.offers {
+  display: flex;
+  position: relative;
+  margin-top: 10%;
+  width: 80%;
+  padding: 0% 10%;
+}
+
+.girl {
+  width: 500px;
+  height: 327px;
+  flex-shrink: 0;
+  background-color: #FFDBDF;
+  margin-right: 20px;
+}
+
+.imgGirl {
+  position: absolute;
+  top: 1px;
+  right: 410px;
+}
+
+.text2 .p {
+  margin-left: 25%;
+  margin-top: 100px;
+  width: 465px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.text2 .h3 {
+  margin-left: 15%;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.text2 .a {
+  line-height: normal;
+  border: none;
+  border-bottom: 2px solid #7FD3DF;
+  background-color: #FFDBDF;
+  margin-left: 28%;
+}
+
+.boy {
+  width: 528.404px;
+  height: 325px;
+  flex-shrink: 0;
+  background: #D6F7FE;
+}
+
+.imgBoy {
+  position: absolute;
+  top: 1px;
+  right: -170px;
+}
+
+.textOfBoy {
+  margin-left: 32%;
+  margin-top: 15%;
+}
+
+.textOfBoy .offerH3 {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.textOfBoy .offerP {
+  width: 465px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-left: 50px;
+}
+
+.textOfBoy a {
+  line-height: normal;
+  border: none;
+  border-bottom: 2px solid #7FD3DF;
+  background-color: #D6F7FE;
+  margin-left: 70px;
+  margin-top: 10px;
+}/*# sourceMappingURL=StyleOffers.css.map */

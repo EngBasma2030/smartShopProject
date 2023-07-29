@@ -1,0 +1,83 @@
+.Card .imgCard{
+    width: 28%;
+    margin-left: 68%;
+    padding: 10px 10px;
+
+    // margin-bottom: 40px;
+
+   }
+   .Card{
+       width: 400px;
+       height: 1030px; 
+       .card{
+        margin-bottom: 30px;
+        border: 1px solid #000;
+       }
+   }
+   .btnCard {
+       margin-top: 15px;
+       margin-left: 89%;
+       border: none;
+       background-color: transparent;
+   }
+   .pCard{
+    // margin-left: 30px;
+    color: #000;
+text-align: right;
+font-family: Tajawal;
+font-size: 17.344px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+margin-right: 140px;
+margin-top: -100px;
+   }
+   .cardH5{
+    color: #000;
+text-align: right;
+font-family: Tajawal;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+text-transform: capitalize;
+margin-right: 150px;
+   }
+   .cardH4{
+    color: var(--primary, #7FD3DF);
+text-align: right;
+font-family: Tajawal;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+text-transform: capitalize;
+margin-right: 190px;
+margin-top: -25px;
+   }
+   .closeCard{
+    color: #000;
+text-align: left;
+font-family: Tajawal;
+font-size: 17.344px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+width: 10.79px;
+height: 12.752px;
+margin-left: 20px;
+margin-top: -40px;
+
+   }
+   .Counters{
+    margin-left: 210px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+   }
+//    .border{
+//     border-bottom: 2px solid rgba(147, 202, 222, 0.30) ;
+//     width: 400px;
+// height: 2px;
+   }

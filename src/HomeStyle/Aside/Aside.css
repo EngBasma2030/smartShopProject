@@ -1,0 +1,16 @@
+.Aside {
+  display: flex;
+  justify-content: space-around;
+  padding: 0% 18%;
+  margin-top: 10%;
+}
+
+.S1 {
+  text-align: center;
+  display: flex;
+  padding: 9.205px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 18.41px;
+}/*# sourceMappingURL=Aside.css.map */

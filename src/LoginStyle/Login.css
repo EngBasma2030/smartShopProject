@@ -1,0 +1,134 @@
+.Login {
+  height: 923px;
+  display: flex;
+  margin-top: 150px;
+}
+
+.smart {
+  display: flex;
+  align-items: flex-start;
+  gap: 23px;
+  transform: translateX(430px);
+  margin-top: 30px;
+}
+
+.loginDiv1 {
+  transform: translateX(400px);
+  margin-top: 60px;
+}
+.loginDiv1 .loginH5 {
+  color: #000;
+  font-family: Tajawal;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  transform: translateX(230px);
+}
+.loginDiv1 .loginP {
+  color: #000;
+  font-family: Tajawal;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  transform: translateX(170px);
+  margin-top: 4px;
+}
+
+.loginImg {
+  width: 55%;
+  margin-left: 360px;
+}
+
+.divInput {
+  margin-top: 20px;
+}
+.divInput .inputE-mail {
+  display: flex;
+}
+.divInput .inputEmail {
+  width: 433px;
+  padding: 10px;
+  border: transparent transparent rgba(0, 0, 0, 0.15) transparent;
+  background: #FFF;
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.15);
+  color: rgba(0, 0, 0, 0.5);
+  text-align: right;
+  font-family: Tajawal;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  transform: translateX(280px);
+}
+.divInput .inputPassword {
+  width: 433px;
+  padding: 10px;
+  border: transparent transparent rgba(0, 0, 0, 0.15) transparent;
+  background: #FFF;
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.15);
+  color: rgba(0, 0, 0, 0.5);
+  text-align: right;
+  font-family: Tajawal;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  transform: translateX(280px);
+  margin-top: 10px;
+}
+
+.btnLogin {
+  display: flex;
+  margin-top: 30px;
+}
+.btnLogin .loginP {
+  color: #69BFFF;
+  text-align: right;
+  font-family: Tajawal;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: capitalize;
+  transform: translateX(280px);
+}
+.btnLogin .buttonLogin {
+  width: 131px;
+  height: 45px;
+  padding: 16px;
+  align-items: flex-start;
+  gap: 32px;
+  border-radius: 8px;
+  background: var(--primary, #7FD3DF);
+  color: #FFF;
+  text-align: center;
+  font-family: Tajawal;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: capitalize;
+  border: none;
+  transform: translateX(460px);
+}
+
+.textOfLogin {
+  color: #000;
+  text-align: right;
+  font-family: Tajawal;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  transform: translateX(270px);
+  margin-top: 20px;
+}
+
+.imgsLogin {
+  transform: translateX(450px);
+}
+.imgsLogin img {
+  margin-right: 10px;
+}/*# sourceMappingURL=Login.css.map */

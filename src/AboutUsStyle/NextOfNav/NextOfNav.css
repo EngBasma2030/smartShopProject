@@ -1,0 +1,45 @@
+.NextOfNav {
+  margin-top: 5%;
+}
+
+.imgNextOfNav {
+  width: 99.99%;
+}
+
+.textNav {
+  margin-top: -220px;
+  margin-left: 350px;
+  color: #fff;
+}
+
+.LinkNextNav {
+  justify-content: space-between;
+  margin-left: 100px;
+  color: #FFF;
+  text-align: center;
+  font-family: Tajawal;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+
+.LinkNextOfNav {
+  margin-top: 50px;
+  margin-left: 400px;
+}
+
+.slachOfNav {
+  color: #EB0E0E;
+  text-align: center;
+  font-family: Tajawal;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+  margin-right: 170px;
+  margin-top: -24px;
+}/*# sourceMappingURL=NextOfNav.css.map */

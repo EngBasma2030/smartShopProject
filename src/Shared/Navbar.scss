@@ -1,0 +1,75 @@
+//nav
+.NAV{
+    background: rgba(147, 202, 222, 0.03);
+    
+}
+.handleIcons{
+    display: inline-flex;
+padding: 4px;
+justify-content: center;
+align-items: center;
+gap: 16px; 
+margin-top: 4%;
+margin-left: 8%;
+margin-right: 35%;
+font-size: x-large;
+}
+.iconsss{
+    width: 14px;
+height: 14.7px;
+flex-shrink: 0; 
+padding: 5%;
+
+}
+
+.btnNav
+{
+    background: rgba(147, 202, 222, 0.03);
+    border: none;
+    color: rgba(0, 0, 0, 0.50);
+text-align: center;
+font-size: 16px;
+font-family: El Messiri;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize; 
+padding: 0.6%;
+text-decoration: none;
+
+}
+.btnNav:hover
+{
+    color:aqua;
+    cursor: pointer;
+    
+}
+.btnNav1
+{
+    background: rgba(147, 202, 222, 0.03);
+
+    border: none;
+
+text-align: center;
+font-size: 16px;
+font-family: El Messiri;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize; 
+padding: 0.6%;
+color:aqua;
+cursor: pointer;
+text-decoration: none;
+
+}
+
+
+.logo
+{
+    padding-left: 3%;
+    vertical-align:middle;
+}
+
+
+
